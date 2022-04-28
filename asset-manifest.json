@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ice-cream/static/css/main.45acd069.css",
+    "main.js": "/ice-cream/static/js/main.58208a57.js",
+    "static/media/roses.jpg": "/ice-cream/static/media/roses.a4f144bdc8b51a66dd8f.jpg",
+    "static/media/choc.jpg": "/ice-cream/static/media/choc.35297e479cc9c809a997.jpg",
+    "static/media/pops.jpg": "/ice-cream/static/media/pops.5e6b5d9d93a194de3dd5.jpg",
+    "static/media/cookie.jpg": "/ice-cream/static/media/cookie.03f8c0fc281467df237b.jpg",
+    "static/media/sweet.jpg": "/ice-cream/static/media/sweet.5118d0203af64c448c64.jpg",
+    "index.html": "/ice-cream/index.html",
+    "main.45acd069.css.map": "/ice-cream/static/css/main.45acd069.css.map",
+    "main.58208a57.js.map": "/ice-cream/static/js/main.58208a57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45acd069.css",
+    "static/js/main.58208a57.js"
+  ]
+}
